@@ -1,0 +1,471 @@
+# SpaceBurger — Company Handbook and Operations Guide
+
+## 1. Welcome to SpaceBurger
+
+Welcome to SpaceBurger, the galaxy's most ambitious fast-food company. SpaceBurger was founded with one simple idea: burgers should be delicious enough to make humans, robots, aliens, and starving astronauts temporarily forget about their problems.
+
+Our headquarters is located inside Orbit Station 7, although most customers simply know it as "the big spinning burger place." SpaceBurger currently operates restaurants across Earth, Mars, Luna, and three licensed orbital stations.
+
+Our company mission is:
+
+> **"Make every bite worth crossing a galaxy for."**
+
+SpaceBurger focuses on fast service, consistent food quality, unusual ingredients, employee development, and aggressive experimentation. We believe that a good restaurant should not feel like a factory. Every customer should feel like they have discovered something interesting.
+
+The company's signature product is the **Cosmic Burger**, a double-layer burger containing a grilled asteroid-beef patty, lunar lettuce, solar cheese, and our famous secret sauce.
+
+The secret sauce contains ketchup, mayonnaise, mustard, pickled cucumber, smoked paprika, garlic, and a tiny quantity of legally approved edible stardust.
+
+The stardust does not provide any nutritional benefits. It simply makes the sauce sparkle under ultraviolet lighting.
+
+## 2. Company History
+
+SpaceBurger began in 2097 when founder and current CEO Gorp purchased a small food truck from a retired asteroid miner.
+
+Gorp is an alien from the planet Zorbax-9. According to company records, he has four arms, two hearts, excellent financial instincts, and absolutely no understanding of human birthday traditions.
+
+The original food truck was called **Gorp's Grilled Things**, but the name was changed after customers repeatedly complained that they could not pronounce it.
+
+The first SpaceBurger restaurant opened in New Colombo City in 2101.
+
+During its first year, the restaurant sold approximately 82,000 burgers. By 2108, SpaceBurger had expanded to 46 locations. In 2114, the company opened its first lunar restaurant.
+
+The lunar restaurant became famous for its low-gravity dining experience, where customers could watch fries slowly float toward the ceiling.
+
+SpaceBurger's largest expansion occurred in 2122 after the company received a major investment from Nebula Ventures.
+
+Today, SpaceBurger employs approximately 18,000 people.
+
+## 3. Our Values
+
+SpaceBurger operates around five major values.
+
+### Customer First
+
+Customers are the reason the company exists. Employees should treat customers respectfully even when the customer is extremely confused about why their burger is floating.
+
+### Speed Matters
+
+Fast food should actually be fast. Restaurants should aim to complete standard orders within seven minutes.
+
+### Quality Over Shortcuts
+
+Employees must follow food preparation procedures. Saving thirty seconds is not worth creating a bad customer experience.
+
+### Experimentation
+
+Employees are encouraged to suggest new products, processes, and ideas.
+
+Several of SpaceBurger's most successful menu items began as employee suggestions.
+
+### Own Your Mistakes
+
+Mistakes happen. Hiding mistakes makes them worse.
+
+If an employee accidentally gives a customer a Galactic Chicken Burger instead of a Cosmic Burger, the correct response is to acknowledge the mistake and fix it.
+
+## 4. Employee Benefits
+
+SpaceBurger provides employees with a standard benefits package.
+
+Full-time employees receive **15 days of paid time off per year**.
+
+Employees also receive:
+
+* Paid public holidays
+* Free meals during scheduled shifts
+* Employee discounts
+* Basic health coverage
+* Professional development support
+* Internal training programs
+* Performance bonuses for eligible positions
+* Access to the SpaceBurger Learning Portal
+
+Employees working at orbital locations receive additional compensation because of the unusual working environment.
+
+Employees stationed on Mars receive a planetary environment allowance.
+
+Employees stationed on Luna receive a reduced-gravity adjustment allowance.
+
+Employees stationed at underwater Earth locations receive a waterproof uniform.
+
+## 5. Working Hours
+
+SpaceBurger restaurants operate continuously in major locations.
+
+Most employees work between 32 and 40 hours per week depending on their contract.
+
+Restaurant managers are responsible for creating weekly schedules.
+
+Employees should arrive at least ten minutes before their scheduled shift.
+
+Late arrival creates operational problems because restaurants depend on predictable staffing levels.
+
+If an employee knows they will be late, they must contact their shift manager as soon as possible.
+
+Employees should never simply disappear from a shift.
+
+Repeated unexplained absences may result in disciplinary action.
+
+## 6. Restaurant Roles
+
+A typical SpaceBurger restaurant contains several roles.
+
+### Crew Member
+
+Crew members prepare food, serve customers, maintain the restaurant, and operate basic equipment.
+
+### Grill Specialist
+
+Grill specialists prepare burger patties and other grilled products.
+
+They are responsible for temperature control and cooking consistency.
+
+### Sauce Technician
+
+Sauce technicians prepare sauces according to approved recipes.
+
+The secret sauce recipe is stored in a secure digital vault.
+
+Only authorized employees can access the complete recipe.
+
+### Shift Manager
+
+Shift managers coordinate restaurant operations during individual shifts.
+
+They handle customer complaints, staffing issues, inventory problems, and emergency situations.
+
+### Restaurant Manager
+
+Restaurant managers are responsible for overall restaurant performance.
+
+They manage employees, inventory, budgets, training, compliance, and customer satisfaction.
+
+### Regional Director
+
+Regional directors supervise multiple restaurants and report to corporate leadership.
+
+## 7. Food Safety
+
+Food safety is one of SpaceBurger's highest priorities.
+
+Employees must wash their hands before preparing food, after handling waste, after using the restroom, and whenever contamination may have occurred.
+
+Raw ingredients must be stored separately from prepared food.
+
+Frozen products must remain within approved temperature ranges.
+
+Restaurants use automated temperature sensors to monitor refrigerators and freezers.
+
+If a sensor reports an unsafe temperature, employees must follow the restaurant's food safety procedure immediately.
+
+Employees must never serve food that they believe may be unsafe.
+
+When in doubt, discard the product and report the incident.
+
+Food waste is cheaper than a food safety incident.
+
+## 8. The Secret Sauce
+
+The SpaceBurger secret sauce is one of the company's most valuable intellectual assets.
+
+The standard recipe contains:
+
+* Ketchup
+* Mayonnaise
+* Mustard
+* Pickled cucumber
+* Garlic
+* Smoked paprika
+* Black pepper
+* Salt
+* Proprietary seasoning
+* Edible stardust
+
+The exact quantities are confidential.
+
+The recipe was originally written on a napkin by Gorp in 2098.
+
+That napkin is now displayed inside a climate-controlled glass case at company headquarters.
+
+Employees must never photograph, copy, publish, or share confidential recipes.
+
+The company considers unauthorized disclosure of proprietary recipes a serious violation of company policy.
+
+## 9. Technology
+
+SpaceBurger uses technology throughout its operations.
+
+Every restaurant has a centralized point-of-sale system.
+
+Customers can order through:
+
+* Restaurant terminals
+* Mobile applications
+* Web browsers
+* Voice assistants
+* Autonomous delivery robots
+
+Orders are transmitted to the kitchen automatically.
+
+Kitchen displays show employees which items need to be prepared.
+
+The system also predicts ingredient demand based on historical sales.
+
+For example, if a restaurant normally sells 400 burgers on Friday evenings, the inventory system may automatically recommend additional burger patties before the weekend.
+
+SpaceBurger's internal engineering team maintains the ordering platform.
+
+The engineering organization follows a service-oriented architecture with separate systems for ordering, payments, inventory, employee management, and analytics.
+
+## 10. Customer Support
+
+Customer complaints should be handled calmly and professionally.
+
+Employees should first listen to the customer.
+
+The employee should then identify the problem and determine whether it can be resolved immediately.
+
+Common complaints include:
+
+* Incorrect orders
+* Missing items
+* Cold food
+* Long waiting times
+* Delivery problems
+* Incorrect charges
+* Allergy-related concerns
+
+Employees must never argue with customers.
+
+If an issue cannot be resolved at restaurant level, it should be escalated to the shift manager.
+
+Serious safety complaints must be reported immediately.
+
+## 11. Inventory
+
+Restaurants receive regular deliveries of ingredients.
+
+Inventory includes:
+
+* Burger patties
+* Chicken
+* Cheese
+* Lettuce
+* Tomatoes
+* Pickles
+* Potatoes
+* Sauces
+* Drinks
+* Packaging
+* Cleaning supplies
+
+Managers should monitor inventory daily.
+
+Products approaching their expiration date should be prioritized according to company food-safety procedures.
+
+Inventory discrepancies must be investigated.
+
+For example, if the system reports 500 burger patties but the restaurant physically has only 430, the manager should investigate the difference.
+
+Inventory accuracy affects both profitability and customer satisfaction.
+
+## 12. Security
+
+SpaceBurger protects customer and employee information.
+
+Employees must use individual accounts when accessing internal systems.
+
+Passwords must never be shared.
+
+Sensitive information should only be accessed when required for the employee's job.
+
+Employees should lock their computers when leaving their workstation.
+
+Suspicious emails, login attempts, or unusual system behavior should be reported to the security team.
+
+Employees are never authorized to bypass security controls simply because a task is inconvenient.
+
+## 13. Product Development
+
+New products are developed through experimentation.
+
+Employees can submit ideas through the **BurgerLab** internal platform.
+
+Each proposal contains:
+
+* Product name
+* Ingredients
+* Estimated cost
+* Preparation time
+* Target customers
+* Expected price
+* Potential problems
+
+The product development team evaluates promising ideas.
+
+Several famous SpaceBurger products originated from BurgerLab submissions.
+
+The **Black Hole Burger**, for example, was originally suggested by a night-shift employee who wanted to create an extremely spicy burger.
+
+The product was initially rejected because the first version caused twelve employees to drink water simultaneously.
+
+After reformulation, it became one of the company's most popular limited-time products.
+
+## 14. Employee Development
+
+SpaceBurger encourages employees to develop new skills.
+
+Employees can participate in internal courses covering:
+
+* Food safety
+* Customer service
+* Leadership
+* Restaurant management
+* Data analysis
+* Software engineering
+* Business operations
+* Communication
+
+Employees interested in technology can apply for internal transfers to the engineering department.
+
+The company believes employees should not be permanently limited to the role they started with.
+
+A crew member can eventually become a restaurant manager, regional director, product manager, engineer, or executive.
+
+## 15. The CEO
+
+Gorp remains the CEO of SpaceBurger.
+
+His leadership philosophy is simple:
+
+> "If the burger is bad, fix the burger."
+
+Gorp is known for personally visiting restaurants without announcing his arrival.
+
+Employees sometimes recognize him immediately because he has four arms and glows slightly in the dark.
+
+During restaurant visits, Gorp usually examines kitchen cleanliness, customer waiting times, food quality, and employee morale.
+
+Despite being the CEO, he occasionally works behind the counter.
+
+His favorite menu item is the Cosmic Burger with extra pickles.
+
+His least favorite item is the Moonshake because, according to him, "it tastes like cold regret."
+
+## 16. Company Communication
+
+Employees use the internal SpaceBurger communication platform for work-related communication.
+
+Important announcements are published through the company portal.
+
+Managers are responsible for ensuring that employees understand relevant operational updates.
+
+Employees should avoid using personal messaging applications for confidential company information.
+
+Emergency announcements may be delivered through SMS, email, or the restaurant communication system.
+
+Employees should keep their contact information updated.
+
+## 17. Remote and Hybrid Employees
+
+Corporate employees may be eligible for remote or hybrid work depending on their position.
+
+Engineering, finance, marketing, analytics, and certain administrative roles can often be performed remotely.
+
+Restaurant employees generally cannot work remotely because burgers have not yet learned how to cook themselves.
+
+Remote employees are expected to maintain normal communication with their teams.
+
+Meetings should have clear objectives.
+
+Employees should not schedule meetings simply because they are unsure how to send an email.
+
+## 18. Environmental Responsibility
+
+SpaceBurger attempts to reduce environmental waste.
+
+Restaurants recycle packaging where local infrastructure allows it.
+
+The company is experimenting with biodegradable containers.
+
+Food waste is monitored through the inventory system.
+
+Some restaurants use solar energy.
+
+Orbital restaurants use energy-efficient cooking systems because transporting energy through space is expensive.
+
+SpaceBurger's long-term goal is to operate restaurants with minimal environmental impact.
+
+## 19. Workplace Conduct
+
+Employees are expected to treat coworkers with respect.
+
+Harassment, discrimination, threats, and violence are prohibited.
+
+Employees should raise workplace concerns through appropriate management channels.
+
+Managers are responsible for investigating serious complaints and escalating them when necessary.
+
+SpaceBurger aims to maintain a workplace where employees can perform their jobs without fear or intimidation.
+
+## 20. Emergency Procedures
+
+Employees may encounter fires, equipment failures, medical emergencies, power outages, or unexpected planetary weather.
+
+Employees should prioritize human safety.
+
+In an emergency:
+
+1. Remain calm.
+2. Follow emergency instructions.
+3. Alert the appropriate manager.
+4. Evacuate when instructed.
+5. Do not take unnecessary risks.
+6. Contact emergency services when required.
+
+Orbital restaurants have additional emergency procedures involving pressure loss and evacuation capsules.
+
+Lunar and Martian restaurants have specialized procedures for habitat failures.
+
+Employees receive location-specific emergency training.
+
+## 21. The Future of SpaceBurger
+
+SpaceBurger plans to continue expanding beyond Earth.
+
+Future locations may include Europa, Titan, and large commercial spacecraft.
+
+The company is also developing autonomous restaurant systems.
+
+These systems will allow customers to place orders, receive food, and complete payments with minimal human interaction.
+
+However, SpaceBurger does not intend to eliminate human employees entirely.
+
+The company believes human creativity, judgment, and empathy remain important.
+
+The future restaurant may have more robots, better software, and faster kitchens, but it will still need people who care about making a good burger.
+
+## 22. Final Message
+
+SpaceBurger is more than a restaurant company.
+
+It is a combination of food, technology, logistics, entertainment, and extremely questionable corporate decisions.
+
+Every employee contributes to the customer experience.
+
+Whether you are preparing a burger, writing software, managing inventory, cleaning a restaurant, analyzing data, or designing the next generation of orbital kitchens, your work matters.
+
+Remember the three SpaceBurger rules:
+
+**Make it safe.**
+
+**Make it good.**
+
+**Make it worth crossing a galaxy for.**
+
+Welcome to SpaceBurger.
+
+Now put on your gloves, check the grill, and prepare for lunch rush.
+
+The galaxy is hungry.
